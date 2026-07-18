@@ -59,10 +59,10 @@ Each note includes:
 
 ## Connect
 
-- **X (Twitter):** [@yourhandle](#)
+- **X (Twitter):** [@ValaR_911](#)
 - **LinkedIn:** [Yassin Hamada](#)
 - **Writeups (polished):** [osint-writeups](https://github.com/recon1231/osint-writeups-)
-- **Medium:** [link](#)
+- **Medium:** [[link](https://medium.com/@hdhffxfg)](#)
 
 ---
 
