@@ -52,13 +52,13 @@ Each note includes:
 
 ## Connect
 
-- **X (Twitter):** [@yourhandle](#)
+- **X (Twitter):** [@ValaR_911](#)
 - **LinkedIn:** [Yassin Hamada](#)
 - **Writeups (polished):** [osint-writeups](https://github.com/recon1231/osint-writeups-)
-- **Medium:** [link](#)
+- **Medium:** [[link](https://medium.com/@hdhffxfg)](#)
 
 ---
 
 ### About Me
-
+Cybersecurity researcher focused on OSINT, malware analysis, and threat intelligence. Building hands-on experience through independent research, applied training, and collaborative bug bounty work.
 Cybersecurity researcher focused on OSINT, malware analysis, and threat intelligence. Building hands-on experience through independent research, applied training, and collaborative bug bounty work.
