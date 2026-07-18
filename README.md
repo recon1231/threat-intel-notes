@@ -34,31 +34,38 @@ Each note includes:
 
 ---
 
-## Malware Families
-*Index updated as entries are added.*
-
-| Family | Type | Last Updated |
-|---|---|---|
-| *coming soon* | | |
-
 ## Threat Actors
-*Index updated as entries are added.*
 
 | Actor / Group | Focus | Last Updated |
 |---|---|---|
-| *coming soon* | | |
+| [APT28 (Fancy Bear)](./threat-actors/apt28-fancy-bear.md) | State-linked espionage | 2026-07-18 |
+| [Lazarus Group](./threat-actors/lazarus-group.md) | Financial theft / espionage | 2026-07-18 |
+| [LockBit](./threat-actors/lockbit.md) | Ransomware-as-a-Service | 2026-07-18 |
+| [APT29 (Cozy Bear)](./threat-actors/apt29-cozy-bear.md) | State-linked espionage | 2026-07-18 |
+| [Scattered Spider](./threat-actors/scattered-spider.md) | Social-engineering-first / financial | 2026-07-18 |
+| [INT3X](./threat-actors/int3x.md) | Regional cybercrime collective (Egypt-focused) | 2026-07-18 |
+
+## Malware Families
+
+| Family | Type | Last Updated |
+|---|---|---|
+| [Emotet](./malware-families/emotet.md) | Loader / Botnet | 2026-07-18 |
+| [Qakbot](./malware-families/qakbot.md) | Banking Trojan / Loader | 2026-07-18 |
+| [RedLine Stealer](./malware-families/redline-stealer.md) | Infostealer | 2026-07-18 |
+| [Cobalt Strike (Malicious Use)](./malware-families/cobalt-strike-malicious-use.md) | Post-Exploitation / C2 Framework | 2026-07-18 |
+| [Agent Tesla](./malware-families/agent-tesla.md) | RAT / Keylogger / Infostealer | 2026-07-18 |
 
 ---
 
 ## Connect
 
-- **X (Twitter):** [@ValaR_911](#)
+- **X (Twitter):** [@yourhandle](#)
 - **LinkedIn:** [Yassin Hamada](#)
 - **Writeups (polished):** [osint-writeups](https://github.com/recon1231/osint-writeups-)
-- **Medium:** [[link](https://medium.com/@hdhffxfg)](#)
+- **Medium:** [link](#)
 
 ---
 
 ### About Me
-Cybersecurity researcher focused on OSINT, malware analysis, and threat intelligence. Building hands-on experience through independent research, applied training, and collaborative bug bounty work.
+
 Cybersecurity researcher focused on OSINT, malware analysis, and threat intelligence. Building hands-on experience through independent research, applied training, and collaborative bug bounty work.
